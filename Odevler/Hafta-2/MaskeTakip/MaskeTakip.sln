@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7830D574-FC35-4B17-9891-54469D3510A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{EECB2004-222F-43C1-96A5-37710642C076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{0F0EE065-ADD8-47BE-A8D7-19F1E8775CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7830D574-FC35-4B17-9891-54469D3510A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7830D574-FC35-4B17-9891-54469D3510A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7830D574-FC35-4B17-9891-54469D3510A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7830D574-FC35-4B17-9891-54469D3510A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECB2004-222F-43C1-96A5-37710642C076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECB2004-222F-43C1-96A5-37710642C076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECB2004-222F-43C1-96A5-37710642C076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECB2004-222F-43C1-96A5-37710642C076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0EE065-ADD8-47BE-A8D7-19F1E8775CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0EE065-ADD8-47BE-A8D7-19F1E8775CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0EE065-ADD8-47BE-A8D7-19F1E8775CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0EE065-ADD8-47BE-A8D7-19F1E8775CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CE4E59-A898-44A1-BA2F-F708E6CF56EB}
+	EndGlobalSection
+EndGlobal
